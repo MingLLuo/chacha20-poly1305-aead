@@ -1,0 +1,6 @@
+build/
+*.out
+aead_wrap
+aead_unwrap
+chacha20
+*.bin
